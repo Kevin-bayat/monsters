@@ -1,0 +1,12 @@
+.card {
+  background-color: aqua;
+  margin: 20px 0;
+  height: auto;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+.card:hover {
+  transform: scale(1.04);
+}
